@@ -1,0 +1,7 @@
+interface:
+  display_name: "数学解题思路复现"
+  short_description: "复现大学数学证明题的完整分析、严谨证明与逐步推导过程"
+  default_prompt: "使用 $trace-math-solution 对这道大学数学题给出详细证明和不省略步骤的完整推导。"
+
+policy:
+  allow_implicit_invocation: true
